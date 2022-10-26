@@ -1,0 +1,16 @@
+/Users/seung-joon/RiderProjects/test/LeetCode/bin/Debug/net6.0/LeetCode
+/Users/seung-joon/RiderProjects/test/LeetCode/bin/Debug/net6.0/LeetCode.deps.json
+/Users/seung-joon/RiderProjects/test/LeetCode/bin/Debug/net6.0/LeetCode.runtimeconfig.json
+/Users/seung-joon/RiderProjects/test/LeetCode/bin/Debug/net6.0/LeetCode.dll
+/Users/seung-joon/RiderProjects/test/LeetCode/bin/Debug/net6.0/ref/LeetCode.dll
+/Users/seung-joon/RiderProjects/test/LeetCode/bin/Debug/net6.0/LeetCode.pdb
+/Users/seung-joon/RiderProjects/test/LeetCode/obj/Debug/net6.0/LeetCode.GlobalUsings.g.cs
+/Users/seung-joon/RiderProjects/test/LeetCode/obj/Debug/net6.0/LeetCode.csproj.AssemblyReference.cache
+/Users/seung-joon/RiderProjects/test/LeetCode/obj/Debug/net6.0/LeetCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seung-joon/RiderProjects/test/LeetCode/obj/Debug/net6.0/LeetCode.AssemblyInfoInputs.cache
+/Users/seung-joon/RiderProjects/test/LeetCode/obj/Debug/net6.0/LeetCode.AssemblyInfo.cs
+/Users/seung-joon/RiderProjects/test/LeetCode/obj/Debug/net6.0/LeetCode.csproj.CoreCompileInputs.cache
+/Users/seung-joon/RiderProjects/test/LeetCode/obj/Debug/net6.0/LeetCode.dll
+/Users/seung-joon/RiderProjects/test/LeetCode/obj/Debug/net6.0/ref/LeetCode.dll
+/Users/seung-joon/RiderProjects/test/LeetCode/obj/Debug/net6.0/LeetCode.pdb
+/Users/seung-joon/RiderProjects/test/LeetCode/obj/Debug/net6.0/LeetCode.genruntimeconfig.cache
